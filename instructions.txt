@@ -1,0 +1,9 @@
+1.- busca algun dataset en el UCI repository y busca algun dataset que te llame la atencion. 
+2.- Arma un proyecto en AWS  (free tier should suffice) y monta el dataset en S3 y otro en dynamodb 
+3.- Genera un repositorio en github
+5.- Crea un notebook  donde le des download a los datasets desde boto3 
+6.- En el mismo notebook, genera una seccion de visualizacion para analizar los datos (puedes usar matplotlib, seaborn, etc)
+7.- Genera una seccion donde le des fit /validacion a un modelo para el dataset
+8.- una seccion pequeña donde hagas conclusiones de tu modelo 
+9.- Por ultimo, monta tus outputs a un db de  SQL
+10.-  Utiliza el repositorio para generar un paquete python (pip installable) (o sea un setup.py y tu folder con sus inits) donde tengas montado tu codigo que creaste
