@@ -5,5 +5,5 @@
 6.- En el mismo notebook, genera una seccion de visualizacion para analizar los datos (puedes usar matplotlib, seaborn, etc)
 7.- Genera una seccion donde le des fit /validacion a un modelo para el dataset
 8.- una seccion pequeña donde hagas conclusiones de tu modelo 
-9.- Por ultimo, monta tus outputs a un db de  SQL
-10.-  Utiliza el repositorio para generar un paquete python (pip installable) (o sea un setup.py y tu folder con sus inits) donde tengas montado tu codigo que creaste
+9.- Por ultimo, monta tus outputs a un db de SQL
+10.- Utiliza el repositorio para generar un paquete python (pip installable) (o sea un setup.py y tu folder con sus inits) donde tengas montado tu codigo que creaste
